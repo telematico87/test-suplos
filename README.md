@@ -6,8 +6,10 @@ que la estructura parte desde cero tanto de la parte backend y la frontend que i
 ![Screenshot from 2023-04-07 23-57-52](https://user-images.githubusercontent.com/13879086/230703950-83eaca91-418d-4d03-a406-82e315a67b63.png)
 
 ## Requisitos
-* PHP 8.2, Vue js, Bootraps5.
+* Mysql 8.02, PHP 8.2, Vue js, Bootraps5.
 ## Intrucciones
+* Importar el fichero sistema.sql que esta en la raiz dentro de la carpeta scriptSql/
+
 * En el fichero config.php  de la raiz se configura los accesos a la base de datos (servidor, usuario, contraseña, base de datos)  
 ![Screenshot from 2023-04-07 23-59-52](https://user-images.githubusercontent.com/13879086/230704013-9f100a45-b0ef-4939-9510-6d5444b7cd58.png)  
 
